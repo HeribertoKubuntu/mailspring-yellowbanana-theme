@@ -5,6 +5,6 @@ The original Matcha theme is work of Vince - check his awesome piece of work in 
 
 ![](./screenshot/yellowbanana.png)
 
-For more details about this great theme please visit de Repository of the autor [Matcha theme repository](https://github.com/jakubzet/mailspring-matcha-theme)
+For more details about this great theme please visit the Repository of the autor [Matcha theme repository](https://github.com/jakubzet/mailspring-matcha-theme)
 
 Made with Love by Heriberto Delgado.
