@@ -1,0 +1,31 @@
+@import "base/ui-variables";
+@import "_colors";
+
+@accent-primary: @selected_bg_color;
+@accent-primary-dark: @accent-primary;
+
+@text-color: @text_color;
+@text-color-subtle: @text_color_subtle;
+@text-color-very-subtle: @text_color_very_subtle;
+@text-color-inverse: @text_color_dark;
+@text-color-inverse-subtle: fadeout(@text-color-inverse, 20%);
+@text-color-inverse-very-subtle: fadeout(@text-color-inverse, 50%);
+@text-color-heading: @base_color;
+
+@text-color-link: @accent-primary;
+@text-color-link-hover: @accent-primary-dark;
+@text-color-link-active: @accent-primary-dark;
+
+@btn-default-bg-color: lighten(@background-primary, 5%);
+@dropdown-default-bg-color: @entry_bg;
+
+@input-bg: @entry_bg;
+@input-border: @entry_border;
+
+@list-bg: @base_color;
+@list-border: @list_border;
+@list-selected-color: @text_color;
+@list-focused-color: @text_color;
+
+@toolbar-background-color: @base_color_dark;
+@panel-background-color: @base_color_dark;
